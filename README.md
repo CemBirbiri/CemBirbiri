@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-:computer: I’m currently studying the 2nd year of Data Science & Artificial Intelligence master's in Nice, France
+- :computer: I’m currently studying the 2nd year of Data Science & Artificial Intelligence master's in Nice, France
 
 
 - 📫 How to reach me: 
