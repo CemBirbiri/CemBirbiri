@@ -1,6 +1,6 @@
-### Hi there 👋
+### Happy to see ypu here! 👋
 
-- :computer: I’m currently studying the 2nd year of Data Science & Artificial Intelligence master's in Nice, France
+- :computer: I’m currently studying the 2nd year of Data Science & Artificial Intelligence master's in Nice, France (2021-2023)
 
 
 - 📫 How to reach me: 
