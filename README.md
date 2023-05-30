@@ -1,6 +1,7 @@
 ### Happy to see you here! 👋
 
-- :computer: I’m currently studying the 2nd year of Data Science & Artificial Intelligence master's in Nice, France (2021-2023)
+- :computer: I’m currently doing a Data Science internship at \href{https://www.aircision.com/}{Aircision} in Eindhoven, Netherlands.
+- :computer: I’m studying the 2nd year of Data Science & Artificial Intelligence master's in Nice, France (2021-2023)
 
 
 - 📫 How to reach me: 
