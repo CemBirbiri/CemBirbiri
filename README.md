@@ -5,7 +5,7 @@
 
 
 - 📫 How to reach me: 
-uccbirbiri@gmail.com, or 
+  ufuk.birbiri@gmail.com, or 
 ufuk-cem.birbiri@etu.univ-cotedazur.fr
 
 
