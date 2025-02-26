@@ -6,20 +6,3 @@
 - :computer: Graduated from the [Computer Engneering bachelor's](https://ceng.metu.edu.tr/) in Ankara, Turkey🇹🇷 (2015-2021).
 
 
-
-- 📫 How to reach me: 
-  ufuk.birbiri@gmail.com
-
-
-<!--
-**CemBirbiri/CemBirbiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-- :computer: I’m currently studying the 2nd year of Data Science & Artificial Intelligence master's in Nice, France
-
-
-- 📫 How to reach me: 
-uccbirbiri@gmail.com,
-ufuk-cem.birbiri@etu.univ-cotedazur.fr
-
--->
