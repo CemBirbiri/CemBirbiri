@@ -5,5 +5,5 @@
 - :computer: Graduated from the [Data Science & Artificial Intelligence master's](https://univ-cotedazur.eu/msc/msc-data-science-and-artificial-intelligence) in Nice, France (2021-2023).
 - :computer: Graduated from the [Computer Engneering bachelor's](https://ceng.metu.edu.tr/) in Ankara, Turkey (2015-2021).
 
-  Read my articles about LLMs & Ai on Medium. [Here is the link.](https://medium.com/@ufuk.birbiri)
+  📚 Read my articles about LLMs & Ai on Medium. [Here is the link.](https://medium.com/@ufuk.birbiri) 
 
